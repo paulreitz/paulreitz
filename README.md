@@ -34,5 +34,7 @@ Open to front-end / UI engineering roles.
 
 ## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulreitz&layout=compact&theme=default#gh-light-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulreitz&layout=compact&theme=dark#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=paulreitz&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulreitz&layout=compact&theme=default" alt="Paul's most-used languages">
+</picture>
