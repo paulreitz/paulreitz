@@ -1,4 +1,4 @@
-![hero](hero_v2.svg)
+![hero](A_solid_slate.svg)
 
 ## About Me
 I'm a front-end engineer with 15 years shipping interactive products: Halo Channel for Xbox One, HBO Go, and Minesweeper for Teams. Lately I've been building open-source tooling in SolidJS and TypeScript.
