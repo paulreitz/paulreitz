@@ -31,3 +31,4 @@ Open to front-end / UI engineering roles.
 - [LinkedIn](https://www.linkedin.com/in/paul-reitz-766aa935b/)
 - [happy-pixels.net](https://happy-pixels.net)
 - [x.com/paulreitz](https://x.com/paulreitz)
+- [x.com/TypescriptNinja](https://x.com/TypescriptNinja)
